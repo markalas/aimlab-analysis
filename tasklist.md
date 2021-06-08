@@ -1,1 +1,1 @@
-- [ ] Clean more data in aimlab_data
+- [ ] Perform more data cleaning in aimlab_data
