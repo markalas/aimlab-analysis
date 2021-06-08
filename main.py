@@ -39,5 +39,3 @@ grid_shot_df.to_excel(aim_lab_output_dir + "\Gridshot_clean.xlsx", index=False) 
 
 print(grid_shot_df)
 
-
-
