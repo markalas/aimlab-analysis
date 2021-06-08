@@ -1,0 +1,2 @@
+createDate,taskName,mode,weaponName,map,version,accTotal,accB0,accB1,accB2,accB3,accB4,accB5,accB6,accB7,rtTotal,rtB0,rtB1,rtB2,rtB3,rtB4,rtB5,rtB6,rtB7,targetsTotal,shotsTotal,killsPerSec,killTotal
+02/23/2021 00:29:31,headshot,11,9mm,0,-gitBranch.285,82.30088,0.0,0.0,0.0,0.0,0.0,83.0,81.0,83.0,634.432606358682,0,0,0,0,0,604.64484490288623,613.5990646037651,839.58619384765632,93,113,1.55248928,93

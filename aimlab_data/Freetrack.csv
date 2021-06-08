@@ -1,0 +1,4 @@
+createDate,taskName,mode,weaponName,map,version,accTotal,shotsTotal,headshots,bodyshots,missUp,missUpLeft,missUpRight,missLeft,missRight,missDown,missDownLeft,missDownRight
+03/02/2021 01:51:01,freetrack,3,9mm,0,-gitBranch.285,31.2,125,39,0,5,10,10,21,27,4,5,4
+02/23/2021 16:58:25,freetrack,3,9mm,0,-gitBranch.285,49.03846,104,51,0,1,7,13,13,14,1,3,2
+02/23/2021 02:15:42,freetrack,3,9mm,0,-gitBranch.285,30.3571434,168,50,1,8,19,12,26,40,0,6,8

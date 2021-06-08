@@ -1,0 +1,2 @@
+createDate,taskName,mode,weaponName,map,version,OTR,avgTimeOn,maxTimeOn,avgTimeOff,maxTimeOff,missUp,missUpLeft,missUpRight,missLeft,missRight,missDown,missDownLeft,missDownRight
+02/23/2021 00:25:59,circletrack,10,9mm,0,-gitBranch.285,47.0,204.150391,1312.00122,226.586456,1656.002,0,39,54,1298,1118,3,12,36
